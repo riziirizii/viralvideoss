@@ -1,0 +1,3 @@
+GRAPHQL_ENDPOINT="https://articlesshub.com/graphql/"
+
+.env.local
